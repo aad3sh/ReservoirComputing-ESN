@@ -7,5 +7,5 @@ Have compared the efficiency of three different approaches for the same -
 <li> ESN based RNNs
 
 ###
-The code for the ESN model has been obtained from clemens korndörfer's [github](https://github.com/cknd/pyESN') as it was not available on the keras library. 
+The code for the ESN model has been obtained from [clemens korndörfer's repo](https://github.com/cknd/pyESN) as it was not available on the keras library. 
 I have set the hyperparameters as per it's optimality 
