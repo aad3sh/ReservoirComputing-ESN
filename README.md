@@ -8,4 +8,4 @@ Have compared the efficiency of three different approaches for the same -
 
 ###
 The code for the ESN model has been obtained from https://github.com/cknd/pyESN as it was not available on the keras library. 
-I have set the hyperparameters as per the requirement of my experiment.  
+I have set the hyperparameters as per it's optimaility 
