@@ -1,7 +1,7 @@
 # ESN
 I have attempted to model chaotic nonlinear timeseries such as the closing stock prices of S&P 500 companies, using  [*echo state networks*](http://www.scholarpedia.org/article/Echo_state_network), a variant of [reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing).
 In a way, it shows how much more efficient ESNs are compared to lstms or regression when it comes to dynamic systems.
-Have compared the efficiency of three different approaches for the same - 
+I have compared the efficiency of three different approaches for the same - 
 <li> Multiple linear regression
 <li> RNN using lstms
 <li> ESN based RNNs
